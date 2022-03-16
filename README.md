@@ -13,6 +13,6 @@ Here for the OCR py-tesseract is used. It will recognize and "read" the text emb
 <h3>OpenCv</h3>
 The other main concerned library is OpenCv. This library is used to enable the real time accessibility of the sources to recognize characters from. The main functionality of this tool is to enable (create environment for) the real time computer vision based applications.  
   
-Firstly it is tested on images consisting of textual characters. Bounding boxes are formed and after successful isolation of characters in images, then it is applied on video files. 
+<p>Firstly it is tested on images consisting of textual characters. Bounding boxes are formed and after successful isolation of characters in images, then it is applied on video files. 
 
 The system can detect, isolate and recognize characters from images, videos and real-time video frame where background is white and text are in black color as this is just a simple implementation of text recognition in python.
