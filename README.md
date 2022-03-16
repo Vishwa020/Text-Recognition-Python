@@ -1,2 +1,5 @@
 # Text-Recognition-Python
-Real time Text Recognition from images and videos using Python OpenCv
+This is a real-time text recognition project.
+Here the concepts of OCR and Computer Vision are implemented.
+The algorithm is completely written in Python using Jupyter Notebook.
+
